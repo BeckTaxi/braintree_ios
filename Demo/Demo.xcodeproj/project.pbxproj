@@ -573,7 +573,6 @@
 		A0988E8B24DB44B10095EEEE /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				A0988E8C24DB44B10095EEEE /* BTUICardType.h */,
 				A0988E8D24DB44B10095EEEE /* BTUICardExpirationValidator.h */,
 				A0988E8E24DB44B10095EEEE /* BTUIUtil.m */,
 				A0988E8F24DB44B10095EEEE /* BTUICardExpiryFormat.h */,
@@ -589,6 +588,9 @@
 		A0988E9524DB44B10095EEEE /* Public */ = {
 			isa = PBXGroup;
 			children = (
+				A0988EFD24DB44B10095EEEE /* BTUIViewUtil.h */,
+				A0988F4524DB44B10095EEEE /* BTUILocalizedString.h */,
+				A0988E8C24DB44B10095EEEE /* BTUICardType.h */,
 				A0988E9624DB44B10095EEEE /* BTUISummaryView.h */,
 				A0988E9724DB44B10095EEEE /* BraintreeUI.h */,
 				A0988E9824DB44B10095EEEE /* BTUICardHint.h */,
@@ -646,7 +648,6 @@
 				A0988EEB24DB44B10095EEEE /* Payments Components */,
 				A0988EF524DB44B10095EEEE /* BTUIViewUtil.m */,
 				A0988EF624DB44B10095EEEE /* Collection Views */,
-				A0988EFD24DB44B10095EEEE /* BTUIViewUtil.h */,
 				A0988EFE24DB44B10095EEEE /* Apple Pay */,
 				A0988F0324DB44B10095EEEE /* Custom Views */,
 			);
@@ -786,7 +787,6 @@
 			children = (
 				A0988F3824DB44B10095EEEE /* UI.strings */,
 				A0988F3D24DB44B10095EEEE /* BTUILocalizedString.m */,
-				A0988F4524DB44B10095EEEE /* BTUILocalizedString.h */,
 			);
 			path = Localization;
 			sourceTree = "<group>";
